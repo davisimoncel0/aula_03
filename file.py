@@ -10,3 +10,4 @@ def soma(num_a, num_b):
 
 resultado_soma = soma(num_a=5, num_b=3)
 print(soma(num_a=17, num_b=8))
+
